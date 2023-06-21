@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Main-Class: com.example.mathlab2fx.Main
+Class-Path: ikonli-javafx-12.3.1.jar storage-4.0.13.jar util-4.0.13.jar 
+ javafx-base-19.0.2.1-win.jar javafx-web-19.0.2.1-win.jar controlsfx-11.
+ 1.2.jar tilesfx-17.1.17.jar javafx-web-19.0.2.1.jar fxgl-scene-17.1.jar
+  jackson-annotations-2.12.1.jar fxgl-core-17.1.jar bootstrapfx-core-0.4
+ .0.jar fxgl-io-17.1.jar annotations-13.0.jar audio-4.0.13.jar fxgl-game
+ play-17.1.jar lombok-1.18.26.jar javafx-controls-19.0.2.1-win.jar count
+ ries-17.0.23.jar fxgl-17.1.jar lifecycle-4.0.13.jar fxgl-entity-17.1.ja
+ r javafx-controls-19.0.2.1.jar javafx-graphics-19.0.2.1-win.jar javafx-
+ fxml-19.0.2.1.jar toolbox-17.0.35.jar kotlin-stdlib-common-1.5.32.jar h
+ eatmap-17.0.12.jar javafx-media-19.0.2.1-win.jar javafx-base-19.0.2.1.j
+ ar javafx-graphics-19.0.2.1.jar kotlin-stdlib-1.5.32-modular.jar javafx
+ -media-19.0.2.1.jar toolboxfx-17.0.33.jar ikonli-core-12.3.1.jar javafx
+ -fxml-19.0.2.1-win.jar formsfx-core-11.6.0.jar jackson-core-2.12.1.jar 
+ validatorfx-0.4.0.jar jackson-databind-2.12.1.jar
+
